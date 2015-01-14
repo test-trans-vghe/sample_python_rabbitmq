@@ -25,4 +25,4 @@ script:
 after_script:
   - cp README.md ./shippable
 archive: true
-build_image: shippable/minv2:beta
+#build_image: shippable/minv2:beta
